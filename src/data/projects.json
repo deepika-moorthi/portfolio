@@ -1,0 +1,19 @@
+[
+    {
+      "title": "ONLINE LEARNING PLATFORM",
+      "description": "Students can enroll in courses, access video lectures uploaded byinstructors, complete assessments, and receive certificates uponsuccessful completion",
+      "skills": ["css", "Html", "Database"]
+    
+    },
+    {
+      "title": "COMMUNITY RESOURCE SHARING PLATFORM",
+      "description": "Utilizes JavaScript and tree data structure to efficiently organize and distribute resources among community members.",
+      "skills": [  "java script" ,"Datastructure" ,"Html","Css"]
+    },
+    {
+      "title": "STUDENT GRADEBOOK MANAGEMENT",
+      "description": "To efficiently store and retrieve student grades and CGPA. Students have access to view their academic performance, while staff  can add, update, and delete records.",
+      "skills": [ "Datastructure-Avl", "c++"]
+    }
+  ]
+  

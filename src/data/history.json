@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Frontend  development Intern",
+      "organisation": "NOTASCO Technologies",
+      "startDate": "JUNE 2024",
+      "endDate": "JULY 2024",
+      "experiences": ["Trained on MERN stack"],
+      "imageSrc": "history/notas.jpeg"
+    },
+    {
+      "role": "Cloud Computing Intern",
+      "organisation": "Electrocloud",
+      "startDate": "JUNE 2024",
+      "endDate": "JULY 2024",
+      "experiences": [ "Gained practical experience with leading cloud platforms such as AWS Azure and Google Cloud."],
+      "imageSrc": "history/electro.jpeg"
+    }
+    
+  ]
+  
